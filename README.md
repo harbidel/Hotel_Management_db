@@ -3,6 +3,7 @@ Hotel Management Database using Oracle DB
 
 ### Scenario:
 The scenario is a Hotel Management System that caters to a hotel chain with multiple properties. The system will handle various aspects of hotel operations, including room reservations, guest information, staff management, and billing.
+
 ### Business Rules:
 * Each hotel property can have multiple rooms.
 *	A guest can make a reservation for a specific room in a hotel.
@@ -10,6 +11,7 @@ The scenario is a Hotel Management System that caters to a hotel chain with mult
 *	Each reservation is associated with a specific guest.
 *	The hotel staff can manage room availability, check-ins, and check-outs.
 *	The billing department generates invoices for guest stays.
+
 ### Data Involved:
 *	Hotels: Information about each hotel property, including its name, location, and contact details.
 *	Rooms: Details about each room, such as room number, room type, and room capacity.
