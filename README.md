@@ -1,4 +1,4 @@
-# Hotel_Management_db
+# Hotel Management DataBase
 Hotel Management Database using Oracle DB
 
 ### Scenario:
